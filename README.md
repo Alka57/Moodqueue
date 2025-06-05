@@ -24,10 +24,9 @@ This simple internal tool helps support agents log the emotional "mood" of the t
 
 ##  How to Run Locally
 
-1. Clone this repo:
-    git clone https://github.com/alka57/mood-of-the-queue.git
-    cd mood-of-the-queue
-
+1. Go to this repo:
+    https://github.com/alka57/mood-of-the-queue.git
+ 
 2. Set up Virtual environment
     
     python -m venv venv
@@ -47,13 +46,13 @@ This simple internal tool helps support agents log the emotional "mood" of the t
 
 ## Screenshots
 ### 1. Mood Logging Interface
-    ![Vibe meter showing the dropdown of emojis and optional note] (./screenshots/VibeMeter.png)
+    ![Vibe meter showing the dropdown of emojis and optional note] (./VibeMeter.png)
 
 ### 2. Mood chart for Today
-    ![The chart describes the moods selected by individuals] (./screenshots/ChartDistribution.png)
+    ![The chart describes the moods selected by individuals] (./ChartDistribution.png)
 
 ### 3. Google Sheet
-    ![The Google sheet showing the timestamp, mood selected and alternative note] (./screenshots/GoogleSheet.png)
+    ![The Google sheet showing the timestamp, mood selected and alternative note] (./GoogleSheet.png)
 
 
 

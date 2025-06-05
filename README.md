@@ -25,7 +25,7 @@ This simple internal tool helps support agents log the emotional "mood" of the t
 ##  How to Run Locally
 
 1. Go to this repo:
-    https://github.com/alka57/mood-of-the-queue.git
+    https://github.com/alka57/Moodqueue.git
  
 2. Set up Virtual environment
     
@@ -55,6 +55,8 @@ This simple internal tool helps support agents log the emotional "mood" of the t
     ![The Google sheet showing the timestamp, mood selected and alternative note] (./GoogleSheet.png)
 
 
+# Google sheets link:
+https://docs.google.com/spreadsheets/d/1B5qP5sDtB6Ry_2cWKVkQRZIMk_SSg8QidlpBuigk-08/edit?usp=sharing
 
 Created by
 FNU Alka
